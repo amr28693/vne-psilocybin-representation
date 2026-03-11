@@ -56,6 +56,19 @@ Visual and sensorimotor networks are pharmacologically spared.
 - NumPy, SciPy, Pandas, Matplotlib
 - Tkinter (for `vne_tool.py`; included in standard Python distributions)
 
+Screenshots of 'vne_tool.py' in action:
+*Baseline*
+<img width="1265" height="697" alt="1_VNE_tool_example_baseline" src="https://github.com/user-attachments/assets/7ffb2caa-8da6-42cf-a4fd-4c5feda45f23" />
+
+*Peak*
+<img width="1265" height="697" alt="2_VNE_tool_example_Peak" src="https://github.com/user-attachments/assets/6528bbe6-a30b-4221-abec-2ed2bdf955b2" />
+
+*Pearson*
+<img width="1265" height="697" alt="3_VNE_tool_example_Pearson" src="https://github.com/user-attachments/assets/8fecaad0-c20a-4f12-8d97-6c7270877b77" />
+
+
+
+
 ## License
 
 MIT
